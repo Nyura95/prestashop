@@ -17,11 +17,11 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'nocache_hash' => '998759011565ead3ec96175-08670399',
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_565eb5c8aaa5e7_82834702',
+  'unifunc' => 'content_565ece73ece797_86782701',
   'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_565eb5c8aaa5e7_82834702')) {function content_565eb5c8aaa5e7_82834702($_smarty_tpl) {?><!-- Block categories module -->
+<?php if ($_valid && !is_callable('content_565ece73ece797_86782701')) {function content_565ece73ece797_86782701($_smarty_tpl) {?><!-- Block categories module -->
 <div id="categories_block_left" class="block">
 	<h2 class="title_block">
 					Jeux videos

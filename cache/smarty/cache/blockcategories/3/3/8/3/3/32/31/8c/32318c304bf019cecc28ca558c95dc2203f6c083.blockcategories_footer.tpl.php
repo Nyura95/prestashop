@@ -17,11 +17,11 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'nocache_hash' => '1547831144565ead2bb31e82-82858119',
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_565eb5de387e73_86943335',
+  'unifunc' => 'content_565ece740af9d2_32370125',
   'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_565eb5de387e73_86943335')) {function content_565eb5de387e73_86943335($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_565ece740af9d2_32370125')) {function content_565ece740af9d2_32370125($_smarty_tpl) {?>
 <!-- Block categories module -->
 <section class="blockcategories_footer footer-block col-xs-12 col-sm-2">
 	<h4>Catégories</h4>
@@ -31,7 +31,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 												
 <li class="last">
 	<a 
-	href="http://localhost:8888/prestashop/3-jeux-videos" title="Vous trouverez ici tout les jeux videos en vente.  
+	href="http://localhost:8888/prestashop/3-jeux-videos" class="selected" title="Vous trouverez ici tout les jeux videos en vente.  
  Cette catégorie regroupe tous les jeux videos en vente : 
  Falout 4, star wars : battlefront !">
 		Jeux videos

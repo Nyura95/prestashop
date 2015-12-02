@@ -59,4 +59,5 @@ $(document).ready(function(){
 			pause: homeslider_pause,
 			controls: true
 		});
+	$("#homepage-slider").remove()
 });

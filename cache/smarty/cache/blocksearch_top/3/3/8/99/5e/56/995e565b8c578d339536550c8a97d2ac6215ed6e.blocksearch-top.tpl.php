@@ -11,11 +11,11 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'nocache_hash' => '1138223485565ead2a4bb707-36354819',
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_565ead3eb037f0_38040687',
+  'unifunc' => 'content_565ecc9be51fd3_88399357',
   'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_565ead3eb037f0_38040687')) {function content_565ead3eb037f0_38040687($_smarty_tpl) {?><!-- Block search module TOP -->
+<?php if ($_valid && !is_callable('content_565ecc9be51fd3_88399357')) {function content_565ecc9be51fd3_88399357($_smarty_tpl) {?><!-- Block search module TOP -->
 <div id="search_block_top" class="col-sm-4 clearfix">
 	<form id="searchbox" method="get" action="//localhost:8888/prestashop/recherche" >
 		<input type="hidden" name="controller" value="search" />

@@ -17,11 +17,11 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'nocache_hash' => '1646532843565ead2aee4c15-53729040',
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_565eb5a12fbcb5_88761190',
+  'unifunc' => 'content_565ecc677c1754_43194073',
   'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_565eb5a12fbcb5_88761190')) {function content_565eb5a12fbcb5_88761190($_smarty_tpl) {?>		
+<?php if ($_valid && !is_callable('content_565ecc677c1754_43194073')) {function content_565ecc677c1754_43194073($_smarty_tpl) {?>		
 									
 		
 	
@@ -36,14 +36,6 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 					<div class="product-image-container">
 						<a class="product_img_link" href="http://localhost:8888/prestashop/accueil/8-star-wars-battlefront-32135543534.html" title="Star Wars: Battlefront" itemprop="url">
 							<img class="replace-2x img-responsive" src="http://localhost:8888/prestashop/24-home_default/star-wars-battlefront.jpg" alt="Star Wars: Battlefront" title="Star Wars: Battlefront"  width="250" height="250" itemprop="image" />
-						</a>
-													<div class="quick-view-wrapper-mobile">
-							<a class="quick-view-mobile" href="http://localhost:8888/prestashop/accueil/8-star-wars-battlefront-32135543534.html" rel="http://localhost:8888/prestashop/accueil/8-star-wars-battlefront-32135543534.html">
-								<i class="icon-eye-open"></i>
-							</a>
-						</div>
-						<a class="quick-view" href="http://localhost:8888/prestashop/accueil/8-star-wars-battlefront-32135543534.html" rel="http://localhost:8888/prestashop/accueil/8-star-wars-battlefront-32135543534.html">
-							<span>Aper&ccedil;u rapide</span>
 						</a>
 																			<div class="content_price" itemprop="offers" itemscope itemtype="https://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">

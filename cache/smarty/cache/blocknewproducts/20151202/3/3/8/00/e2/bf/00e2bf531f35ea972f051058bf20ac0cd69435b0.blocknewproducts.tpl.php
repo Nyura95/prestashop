@@ -11,11 +11,11 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'nocache_hash' => '42576397565ead3f555f68-15071035',
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_565eb5a3ea9af0_49988707',
+  'unifunc' => 'content_565ece740009a8_10643660',
   'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_565eb5a3ea9af0_49988707')) {function content_565eb5a3ea9af0_49988707($_smarty_tpl) {?><!-- MODULE Block new products -->
+<?php if ($_valid && !is_callable('content_565ece740009a8_10643660')) {function content_565ece740009a8_10643660($_smarty_tpl) {?><!-- MODULE Block new products -->
 <div id="new-products_block_right" class="block products_block">
 	<h4 class="title_block">
     	<a href="http://localhost:8888/prestashop/nouveaux-produits" title="Nouveaux produits">Nouveaux produits</a>

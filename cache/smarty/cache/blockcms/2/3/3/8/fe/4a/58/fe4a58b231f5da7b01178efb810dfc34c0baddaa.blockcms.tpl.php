@@ -10,33 +10,12 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     ),
   ),
   'nocache_hash' => '494656158565ead2bc3b038-45045147',
-  'variables' => 
-  array (
-    'block' => 0,
-    'cms_titles' => 0,
-    'cms_key' => 0,
-    'cms_title' => 0,
-    'cms_page' => 0,
-    'link' => 0,
-    'show_price_drop' => 0,
-    'PS_CATALOG_MODE' => 0,
-    'show_new_products' => 0,
-    'show_best_sales' => 0,
-    'display_stores_footer' => 0,
-    'show_contact' => 0,
-    'contact_url' => 0,
-    'cmslinks' => 0,
-    'cmslink' => 0,
-    'show_sitemap' => 0,
-    'footer_text' => 0,
-    'display_poweredby' => 0,
-  ),
-  'has_nocache_code' => true,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_565ead2be55652_58902764',
+  'unifunc' => 'content_565ecc6784f9d2_76806249',
+  'has_nocache_code' => true,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_565ead2be55652_58902764')) {function content_565ead2be55652_58902764($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_565ecc6784f9d2_76806249')) {function content_565ecc6784f9d2_76806249($_smarty_tpl) {?>
 	<!-- Block CMS module footer -->
 	<section class="footer-block col-xs-12 col-sm-2" id="block_various_links_footer">
 		<h4>Informations</h4>
